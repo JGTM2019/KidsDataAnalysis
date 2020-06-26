@@ -1,0 +1,1390 @@
+[
+  {
+    "student_id": "243098926",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "243098926"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Leez",
+    "level": "aa",
+    "earned_stars": "4200",
+    "available_stars": "325",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 2,
+        "stars_earned": 10,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 6,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 4,
+        "read": 0,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "243077683",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "243077683"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Ava",
+    "level": "aa",
+    "earned_stars": "2210",
+    "available_stars": "285",
+    "most_recent": "9",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0,
+        "timeInRocket": 0,
+        "timeInAvatar": 0
+      }
+    }
+  },
+  {
+    "student_id": "242906854",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "242906854"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Ethan",
+    "level": "aa",
+    "earned_stars": "3570",
+    "available_stars": "775",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 1,
+        "stars_earned": 0,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 2,
+        "timeInAvatar": 5,
+        "timeLoggedIn": 6,
+        "timeInIncentives": 5
+      },
+      "reading": {
+        "listen": 0,
+        "read": 0,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "242906858",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "242906858"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Doris",
+    "level": "aa",
+    "earned_stars": "8160",
+    "available_stars": "2960",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 1,
+        "stars_earned": 150,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 25,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 0,
+        "read": 0,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 1,
+        "headsprout_episode": 1,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "242764796",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "242764796"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Hannah",
+    "level": "aa",
+    "earned_stars": "3520",
+    "available_stars": "2745",
+    "most_recent": "2",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0,
+        "timeInRocket": 0,
+        "timeInAvatar": 0
+      }
+    }
+  },
+  {
+    "student_id": "242603587",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "242603587"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Owen",
+    "level": "aa",
+    "earned_stars": "8610",
+    "available_stars": "4640",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 6,
+        "stars_earned": 20,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 5,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 2,
+        "read": 0,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "242452631",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "242452631"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Zoey",
+    "level": "aa",
+    "earned_stars": "5070",
+    "available_stars": "1420",
+    "most_recent": "1",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0,
+        "timeInRocket": 0,
+        "timeInAvatar": 0
+      }
+    }
+  },
+  {
+    "student_id": "242452660",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "242452660"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Sophia",
+    "level": "aa",
+    "earned_stars": "5270",
+    "available_stars": "4095",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 3,
+        "stars_earned": 0,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 0,
+        "read": 0,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "241972676",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "241972676"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Amy",
+    "level": "A",
+    "earned_stars": "15180",
+    "available_stars": "10230",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 2,
+        "stars_earned": 110,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 26,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 12,
+        "read": 0,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "241970545",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "241970545"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Andy",
+    "level": "A",
+    "earned_stars": "23600",
+    "available_stars": "3975",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 1,
+        "stars_earned": 200,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 27,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 8,
+        "read": 8,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "241930927",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "241930927"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Hana",
+    "level": "aa",
+    "earned_stars": "11590",
+    "available_stars": "9340",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 3,
+        "stars_earned": 240,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 43,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 26,
+        "read": 4,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 2
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "241602904",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "241602904"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Yoyo",
+    "level": "B",
+    "earned_stars": "24450",
+    "available_stars": "14950",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 2,
+        "stars_earned": 150,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 4,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 1,
+        "read": 0,
+        "worksheet": 0,
+        "quiz": 2,
+        "passed_quiz_count": 1,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "241595397",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "241595397"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Jason",
+    "level": "A",
+    "earned_stars": "9330",
+    "available_stars": "2380",
+    "most_recent": "1",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0,
+        "timeInRocket": 0,
+        "timeInAvatar": 0
+      }
+    }
+  },
+  {
+    "student_id": "241550804",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "241550804"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Colson",
+    "level": "aa",
+    "earned_stars": "6090",
+    "available_stars": "1090",
+    "most_recent": "2",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0,
+        "timeInRocket": 0,
+        "timeInAvatar": 0
+      }
+    }
+  },
+  {
+    "student_id": "241215930",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "241215930"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Max",
+    "level": "A",
+    "earned_stars": "22240",
+    "available_stars": "20065",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 1,
+        "stars_earned": 990,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 45,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 0,
+        "read": 6,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 4
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 1,
+        "headsprout_episode": 1,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "240227023",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "240227023"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Kyle",
+    "level": "aa",
+    "earned_stars": "19230",
+    "available_stars": "16035",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 4,
+        "stars_earned": 50,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 11,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 6,
+        "read": 1,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "239915236",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "239915236"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Tony",
+    "level": "B",
+    "earned_stars": "31200",
+    "available_stars": "7775",
+    "most_recent": "4",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0,
+        "timeInRocket": 0,
+        "timeInAvatar": 0
+      }
+    }
+  },
+  {
+    "student_id": "239483393",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "239483393"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Dom",
+    "level": "aa",
+    "earned_stars": "28720",
+    "available_stars": "15020",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 15,
+        "stars_earned": 50,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 26,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 5,
+        "read": 7,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "239055434",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "239055434"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Aaron",
+    "level": "B",
+    "earned_stars": "24960",
+    "available_stars": "20760",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 4,
+        "stars_earned": 160,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 43,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 15,
+        "read": 3,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 1
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "239035736",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "239035736"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Duncan",
+    "level": "B",
+    "earned_stars": "23400",
+    "available_stars": "19675",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 1,
+        "stars_earned": 230,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 29,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 14,
+        "read": 6,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 3
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "239029322",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "239029322"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Sunny",
+    "level": "A",
+    "earned_stars": "23860",
+    "available_stars": "16660",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 3,
+        "stars_earned": 370,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 32,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 11,
+        "read": 9,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 7
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "239029457",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "239029457"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Thomas",
+    "level": "aa",
+    "earned_stars": "6000",
+    "available_stars": "1125",
+    "most_recent": "1",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0,
+        "timeInRocket": 0,
+        "timeInAvatar": 0
+      }
+    }
+  },
+  {
+    "student_id": "239029738",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "239029738"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Coco",
+    "level": "B",
+    "earned_stars": "22470",
+    "available_stars": "15495",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 1,
+        "stars_earned": 0,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 0,
+        "read": 0,
+        "worksheet": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "238994816",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "238994816"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "Bale",
+    "level": "D",
+    "earned_stars": "79770",
+    "available_stars": "65495",
+    "most_recent": "0",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "logins": 6,
+        "stars_earned": 450,
+        "rocket_visits": 0,
+        "timeInRocket": 0,
+        "avatar_visits": 0,
+        "timeInAvatar": 0,
+        "timeLoggedIn": 28,
+        "timeInIncentives": 0
+      },
+      "reading": {
+        "listen": 3,
+        "read": 2,
+        "worksheet": 0,
+        "quiz": 3,
+        "passed_quiz_count": 2,
+        "practice_recording": 2
+      },
+      "science": {
+        "worksheet": 0,
+        "listen": 0,
+        "read": 0,
+        "quiz": 0,
+        "passed_quiz_count": 0,
+        "practice_recording": 0,
+        "watch": 0,
+        "interactive_lesson": 0
+      },
+      "phonics": {
+        "read": 0,
+        "headsprout_episode": 0,
+        "benchmark_count": 0
+      },
+      "test": {
+        "testlet": 0
+      },
+      "writing": {
+        "build_a_book": 0,
+        "process_writing": 0,
+        "write_your_way": 0
+      },
+      "vocabulary": {
+        "vsc_game_practice": 0,
+        "vsc_game_assessment": 0
+      }
+    }
+  },
+  {
+    "student_id": "238995291",
+    "is_transferred": false,
+    "is_shared": false,
+    "current_writing_level_info": {
+      "writing_level_id": "1",
+      "writing_level_name": "Emerging",
+      "student_id": "238995291"
+    },
+    "current_writing_level_name": "Emerging",
+    "removed_at": null,
+    "full_name": "see all",
+    "level": "aa",
+    "earned_stars": "1190",
+    "available_stars": "1190",
+    "most_recent": "22",
+    "homeroom_member_id": "6415656",
+    "homeroom_member_username": "fanger12",
+    "homeroom_member_first_name": "Fang",
+    "homeroom_member_last_name": "Fang",
+    "activity_rollups_by_subject": {
+      "overview": {
+        "timeLoggedIn": 0,
+        "timeInIncentives": 0,
+        "timeInRocket": 0,
+        "timeInAvatar": 0
+      }
+    }
+  }
+]
